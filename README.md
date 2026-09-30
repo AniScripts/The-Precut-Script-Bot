@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> ### 🚨 Repository Moved to GitLab
+> This repository has officially migrated to **GitLab** and is now archived on GitHub for historical reference.
+>
+> 📦 **Active Development & Releases**: [https://gitlab.com/aniscripts/the-precut-script-bot](https://gitlab.com/aniscripts/the-precut-script-bot)
+
 <h1 align="center">
   <img src="https://media.discordapp.net/attachments/977518313217347604/1469341638986956931/TPS-Transparent.png?ex=69874e89&is=6985fd09&hm=7166255ffcbdc100486be9dde038eb25edcd7a34bd66cb7150de263c3ec304aa&=&format=webp&quality=lossless&width=972&height=972" width="120" alt="The Precut Script Bot"/>
   <br />
